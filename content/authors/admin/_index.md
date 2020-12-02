@@ -26,12 +26,12 @@ education:
   - course: PhD in Film
     institution: University of Glasgow
     year: 2009
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MLitt in Film and Television
+    institution: University of Glasgow
+    year: 2006
+  - course: BA in English and Drama
+    institution: Trinity College Dublin
+    year: 2002
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
