@@ -23,9 +23,9 @@ fourthVR.com
 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- 3D Cinema
+- Virtual Reality
+- World Cinemas
 
 education:
   courses:
