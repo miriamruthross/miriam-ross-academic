@@ -25,7 +25,7 @@ education:
   courses:
   - course: PhD in Film
     institution: University of Glasgow
-    year: 2012
+    year: 2009
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
