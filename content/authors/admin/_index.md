@@ -48,8 +48,8 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?user=esCkGAwAAAAJ&hl=en&oi=sra
 - icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  icon_pack: 
+  link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
