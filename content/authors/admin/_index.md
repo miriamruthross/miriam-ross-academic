@@ -46,7 +46,7 @@ social:
   link: https://twitter.com/miriamruthross
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=esCkGAwAAAAJ&hl=en&oi=sra
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
@@ -71,6 +71,5 @@ user_groups:
 
 I employ new digital cinema technologies to challenge expectations and orthodox interpretations of how they should be used. My past work has: turned the screen on its side to produce vertical films; explored how DIY systems can create new stereoscopic (3D) visions; experimented with dynamic editing and narrative techniques in virtual reality (VR) film; and combined Machinima with interactive storytelling. I combine practice-based methods and traditional academic analysis, often with a media archaeology approach that emphasises what a Humanities understanding can bring to the development of new screen technologies. My work frequently focuses on global cinema dynamics, with expertise in Latin American cinema. I also consider embodiment in cinema and how gender dynamics play a role in the production and reception of audiovisual works. 
 I am co-founder and administrator of
-stereoscopicmedia.org
-fourthVR.com
+stereoscopicmedia.org and fourthVR.com
 
