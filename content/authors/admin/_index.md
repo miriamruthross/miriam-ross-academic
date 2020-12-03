@@ -14,7 +14,7 @@ organizations:
   url: "https://people.wgtn.ac.nz/miriam.ross"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I employ new digital cinema technologies to challenge expectations and orthodox interpretations of how they should be used. My past work has turned the screen on its side to produce vertical films; explored how DIY systems can create new stereoscopic (3D) visions; experimented with dynamic editing and narrative techniques in virtual reality (VR) film; and combined Machinima with interactive storytelling. I combine practice-based methods and traditional academic analysis, often with a media archaeology approach that emphasises what a Humanities understanding can bring to the development of new screen technologies. My work frequently focuses on global cinema dynamics, with expertise in Latin American cinema. I also consider embodiment in cinema and how gender dynamics play a role in the production and reception of audiovisual works.
+bio: Miriam Ross is a practice-based researcher and teacher in Film
 
 interests:
 - 3D Cinema
@@ -43,7 +43,7 @@ social:
   link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/miriamruthross
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -69,6 +69,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I employ new digital cinema technologies to challenge expectations and orthodox interpretations of how they should be used. My past work has: turned the screen on its side to produce vertical films; explored how DIY systems can create new stereoscopic (3D) visions; experimented with dynamic editing and narrative techniques in virtual reality (VR) film; and combined Machinima with interactive storytelling. I combine practice-based methods and traditional academic analysis, often with a media archaeology approach that emphasises what a Humanities understanding can bring to the development of new screen technologies. My work frequently focuses on global cinema dynamics, with expertise in Latin American cinema. I also consider embodiment in cinema and how gender dynamics play a role in the production and reception of audiovisual works. 
+I am co-founder and administrator of
+stereoscopicmedia.org
+fourthVR.com
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
