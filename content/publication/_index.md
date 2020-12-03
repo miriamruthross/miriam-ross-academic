@@ -22,7 +22,7 @@ Journal Article: ‘PND: Autobiographical Performance for Virtual Reality Film�
 Journal Article: (with Alex Munt) ‘Cinematic Virtual Reality: Towards the Spatialized Screenplay’ in Journal of Screenwriting, 9:2, 2018. pp.191–209
 Journal Article: (with Alfio Leotta) ‘Touring the ‘World Picture’: Virtual Reality and the Tourist Gaze’ in Studies in Documentary Film, 12:2, 2018, pp.150-162
 Journal Article: ‘Godard’s Stereoscopic Illusions: Against a Total Cinema’ in Screening the Past, 41, 2016, np
-Journal Article (videographic): (with Jonathan Mines) ‘Stereotowns’ in [in]Transitions, 3:2, 2016, np
+Journal Article (videographic): (with Jonathan Mines) ‘Stereotowns’ in inTransitions, 3:2, 2016, np
 
 Book Chapter: ‘Reconfigurations of Screen Borders: The New or Not-So-New Aspect Ratios’ in Susanne Saether and Synne Tollerud Bull (eds) Screen Space Reconfigured, Amsterdam: Amsterdam university Press, 2020, pp.105-26
 Book Chapter: (with Dave Neal) ‘Mobile Framing: Vertical Videos from User-Generated Content to Corporate Marketing’ in Max Schleser and Marsha Berry (eds) Mobile Story Making in an Age of Smartphones, Springer International Publishing, 2018, pp.151-160
