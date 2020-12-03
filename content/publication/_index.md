@@ -13,7 +13,8 @@ header:
   caption: ""
   image: ""
 ---
-Monograph: 3D Cinema: Optical Illusions and Tactile Experiences, Houndmills, Basingstoke; New York: Palgrave Macmillan, 2015
+
+*Monograph:* 3D Cinema: Optical Illusions and Tactile Experiences, Houndmills, Basingstoke; New York: Palgrave Macmillan, 2015
 Monograph: South American Cinematic Culture: Policy, Production, Distribution and Exhibition, Newcastle: Cambridge Scholars Publishing, 2010
 
 Journal Article: ‘Virtual Reality’s New Synesthetic Possibilities’ in Television and New Media, 21:3, 2020, pp. 297-314
